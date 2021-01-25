@@ -8,20 +8,8 @@ Hi! My name is Adrian Hernandez and I'm a Geek Tech Lover from Cuba. I study a C
 
 ### Pinned Repositories
 
-<br>
-
-<a href="https://https://github.com/adrianhdez929/crw-sweeper">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=adrianhdez929&repo=crw-sweeper />
-</a>
-                                                      
-<br>
-<br>
-
-<a href="https://https://github.com/adrianhdez929/crown-crawler">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=adrianhdez929&repo=crown-crawler />
-</a>
-
-<br>
+[![](https://github-readme-stats.vercel.app/api/pin/?username=adrianhdez929&repo=crw-sweeper)](https://github.com/adrianhdez929/crw-sweeper)
+[![](https://github-readme-stats.vercel.app/api/pin/?username=adrianhdez929&repo=crown-crawler)](https://github.com/adrianhdez929/crown-crawler)
 
 ### My Github Stats
 
