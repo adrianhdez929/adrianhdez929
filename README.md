@@ -6,14 +6,15 @@
 
 Hi! My name is Adrian Hernandez and I'm a Geek Tech Lover from Cuba. I study a Computer Science degree, but that doesn't pushes me back from get a little out from the road and keep learning awesome stuff by myself, and that's how I became a Junior Fullstack Developer (React-Redux and Django, a little Flask but that's another story). I'm also passionate about Blockchain and Data Science, those are my real professional life's objectives, that's why I keep a track on them even if don't know much about it. To clear my mind I have some hobbies like gaming, cooking, watch SitComs and also read. I'm not afraid of failure, that's why I keep focusing on my goals even if everything is against them (and me of course XD). Thanks for reading and keep doing what you love no matter what. Regards!
 
-## 📌 Pinned Repositories
+### Pinned Repositories
 
 <br>
 
 <a href="https://https://github.com/adrianhdez929/crw-sweeper">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=adrianhdez929&repo=crw-sweeper />
 </a>
-
+                                                      
+<br>
 <br>
 
 <a href="https://https://github.com/adrianhdez929/crown-crawler">
