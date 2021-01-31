@@ -20,6 +20,7 @@ Hi! My name is Adrian Hernandez and I'm a Geek Tech Lover from Cuba. I study a C
 
 ![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Redux-informational?style=flat&logo=Redux&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-NextJS-informational?style=flat&logo=Next.js&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Django-informational?style=flat&logo=django&logoColor=white&color=4AB197)
 
 <details>
