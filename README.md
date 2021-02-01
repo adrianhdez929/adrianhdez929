@@ -16,7 +16,7 @@ Hi! My name is Adrian Hernandez and I'm a Geek Tech Lover from Cuba. I study a C
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adrianhdez929)
 ![Adrian's github stats](https://github-readme-stats.vercel.app/api?username=adrianhdez929)
 
-### my CodersRank overview
+### My CodersRank overview
 
 ![CodersRank overview](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=adrianhdez929)
 
