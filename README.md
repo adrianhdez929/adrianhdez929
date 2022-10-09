@@ -4,8 +4,6 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/ahdez929)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/adrian-hernandez-719271175/)
 
-Hi! My name is Adrian Hernandez and I'm a Geek Tech Lover from Cuba. I study a Computer Science degree, but that doesn't pushes me back from get a little out from the road and keep learning awesome stuff by myself, and that's how I became a Junior Fullstack Developer (React-Redux, NextJS and Django/ExpressJS). I'm also passionate about Blockchain and Data Science, those are my real professional life's objectives, that's why I keep a track on them even if don't know much about it. To clear my mind I have some hobbies like gaming, cooking, watch SitComs and also read. I'm not afraid of failure, that's why I keep focusing on my goals even if everything is against them (and me of course XD). Thanks for reading and keep doing what you love no matter what. Regards!
-
 ### Pinned Repositories
 
 [![](https://github-readme-stats.vercel.app/api/pin/?username=adrianhdez929&repo=crw-sweeper)](https://github.com/adrianhdez929/crw-sweeper)
